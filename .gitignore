@@ -1,0 +1,12 @@
+.chalice/deployments/
+.chalice/venv/
+
+__pycache__/
+venv/
+
+*.jpg
+*.png
+.env
+
+# models
+model/yolov5x_color.onnx

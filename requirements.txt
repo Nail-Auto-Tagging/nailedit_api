@@ -1,0 +1,14 @@
+Flask
+flask-restx
+marshmallow
+numpy
+onnxruntime
+opencv-python
+Pillow
+python-dotenv
+requests
+requests-toolbelt
+torch
+torchvision
+flask_cors
+tensorflow
